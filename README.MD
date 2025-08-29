@@ -18,5 +18,7 @@ This repository contains useful commands, small how-tos, and links to handy tool
 ### Networking
 - [tcpdump](./networking/tcpdump.md)
 
+### Links
+- [Tools](./useful-links/tools.md)
 
 ⚡ Continuously updated as I encounter new tasks.
